@@ -23,4 +23,11 @@ Inventory optimization
 Profitability and ROI evaluation
 Category‑level performance comparison
 
+# Output
+--- AI INVENTORY ALERT ---
+Product: P-101
+Mean Absolute Error (MAE): 12.68 units
+Predicted Demand Tomorrow: 23 units
+Recommended Safety Stock: 509 units
+System Action: Place new order when inventory drops below 671 units.
 
